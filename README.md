@@ -9,7 +9,4 @@ brave browser command line search utility
 yay urlencode
 
 # Usage
-bs <string to search on google>
-
-
-
+bs <string_to_search_on_google>
